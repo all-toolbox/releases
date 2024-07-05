@@ -3,11 +3,11 @@
     "platforms": {
       "windows-x86_64": {
         "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUV05TVzJ0RU02Tzg1b2ZhOS96Y0RGaENnZHE0MzhaSlVpZEl0NU1ZYzNYVXFEQ3VXY2RhNlNlLzJyZEhmZW5Ud3c0Vy92VHZRdndlRVFUUUdKbExIWkJpUlFLcWhvbmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIwMTQ4ODk0CWZpbGU6QWxsVG9vbGJveF8xLjAuMF94NjRfZW4tVVMubXNpCllIdzVsWjdJbCsrSHZsSnczYW1HeDRSQ2diRTI2aE91MWVlQ1Z3QlhOWDBJYUNpY01mNWM2WDZQdFlrSGFscHNQcGtudXlxS05KRUlZNjhWRkQ0akF3PT0K",
-        "url": "https://github.com/all-toolbox/releases/releases/latest/download/AllToolbox_x64_en-US.msi"
+        "url": "https://github.com/all-toolbox/releases/releases/latest/download/AllToolbox_x64_en-US.msi.zip"
       },
-      "darwin-x86_64": {
+      "darwin-aarch64": {
         "signature": "",
-        "url": "https://github.com/all-toolbox/releases/releases/latest/download/AllToolbox_aarch64.dmg"
+        "url": "https://github.com/all-toolbox/releases/releases/latest/download/AllToolbox.app.tar.gz"
       }
     }
   }
